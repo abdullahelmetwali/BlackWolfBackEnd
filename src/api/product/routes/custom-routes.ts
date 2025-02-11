@@ -1,4 +1,5 @@
-module.exports = {
+// routes i create (add)
+export default {
     routes: [
         {
             method: 'GET',

@@ -1,6 +1,4 @@
-/**
- * product router
- */
+// product main (default) router
 
 import { factories } from '@strapi/strapi';
 
